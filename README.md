@@ -13,6 +13,9 @@
   <a href="https://huggingface.co/PatnaikAshish/Sonya-TTS">
     <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Model-yellow" alt="Hugging Face"/>
   </a>
+  <a href="https://huggingface.co/spaces/PatnaikAshish/Sonya-TTS">
+    <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Demo-yellow" alt="Hugging Face Demo"/>
+  </a>
   <img src="https://img.shields.io/badge/Language-English-blue" alt="Language"/>
   <img src="https://img.shields.io/badge/Architecture-VITS-green" alt="VITS"/>
   <img src="https://img.shields.io/badge/Python-3.10-brightgreen" alt="Python"/>
@@ -31,6 +34,11 @@ https://github.com/user-attachments/assets/801a64d9-fd60-4dd2-8be9-c697cf0ea514
 </div>
 
 *Extended narration showcasing rhythm control, natural pauses, and consistent tone across paragraphs. More examples in examples folder*
+
+Try Demo at Hugging Space Demo
+<a href="https://huggingface.co/spaces/PatnaikAshish/Sonya-TTS">
+    <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Demo-yellow" alt="Hugging Face Demo"/>
+</a>
 
 ---
 
