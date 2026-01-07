@@ -25,8 +25,8 @@ else:
 
 REPO_ID = "PatnaikAshish/Sonya-TTS"
 
-MODEL_FILENAME = "sonya-tts.safetensors"
-CONFIG_FILENAME = "config.json"
+MODEL_FILENAME = "checkpoints/sonya-tts.safetensors"
+CONFIG_FILENAME = "checkpoints/config.json"
 
 LOCAL_MODEL_PATH = "checkpoints/sonya-tts.safetensors"
 LOCAL_CONFIG_PATH = "checkpoints/config.json"
@@ -122,3 +122,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
