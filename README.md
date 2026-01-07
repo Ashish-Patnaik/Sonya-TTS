@@ -24,21 +24,13 @@
 
 Experience the expressive quality of Sonya TTS:
 
-### Short Speech Example
-<audio controls>
-  <source src="examples/short.wav" type="audio/wav">
-  Listen to Examples in "examples/short.wav"
-</audio>
+<div align="center">
 
-*A quick demonstration of natural speech synthesis with emotion and clarity.*
+https://github.com/user-attachments/assets/801a64d9-fd60-4dd2-8be9-c697cf0ea514
 
-### Long-Form Audiobook Example
-<audio controls>
-  <source src="examples/long.wav" type="audio/wav">
-  Listen to Examples in "examples/long.wav"
-</audio>
+</div>
 
-*Extended narration showcasing rhythm control, natural pauses, and consistent tone across paragraphs.*
+*Extended narration showcasing rhythm control, natural pauses, and consistent tone across paragraphs. More examples in examples folder*
 
 ---
 
