@@ -333,6 +333,10 @@ The project is MIT License and If you use Sonya TTS in your projects, please cre
   url = {https://huggingface.co/PatnaikAshish/Sonya-TTS}
 }
 ```
+Also see the original repo about vits:
+```
+https://github.com/jaywalnut310/vits
+```
 
 ---
 
