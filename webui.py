@@ -22,8 +22,8 @@ if os.path.exists(_ESPEAK_LIBRARY):
 
 REPO_ID = "PatnaikAshish/Sonya-TTS"
 
-MODEL_FILENAME = "sonya-tts.safetensors"
-CONFIG_FILENAME = "config.json"
+MODEL_FILENAME = "checkpoints/sonya-tts.safetensors"
+CONFIG_FILENAME = "checkpoints/config.json"
 
 LOCAL_MODEL_PATH = "checkpoints/sonya-tts.safetensors"
 LOCAL_CONFIG_PATH = "checkpoints/config.json"
@@ -272,3 +272,4 @@ with gr.Blocks(theme=theme, css=custom_css, title="Sonya TTS") as app:
 
 if __name__ == "__main__":
     app.launch()
+
