@@ -360,6 +360,10 @@ If Sonya helps you in any way—whether for a project, learning, or just explora
 
 ---
 
+## Acknowledgement
+1. Dataset used for training :- https://huggingface.co/datasets/Jinsaryko/Elise
+2. VITS model :- https://github.com/jaywalnut310/vits
+
 ## 🔗 Quick Links
 
 - [🤗 Model on Hugging Face](https://huggingface.co/PatnaikAshish/Sonya-TTS)
